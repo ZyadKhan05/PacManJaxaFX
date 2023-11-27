@@ -1,7 +1,7 @@
 # PacManJaxaFX
 Pac-Man game in JavaFX for CIS-232-75
 
-Open the PakMan branch in order to view the code
+In order to view the code, you will have to select the PakMan branch 
 
 Note that you need to be using Java 9.0 SDK in order to run the program as the Media Player does not work in 1.8. View the JavaSDK branch from the dropdown menu for an installer. 
 
