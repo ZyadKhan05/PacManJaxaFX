@@ -1,7 +1,7 @@
 # PacManJaxaFX
-Welcome to PakMAN!
+Welcome to PakMan!
 
-This projet is a Pac-Man game coded with Java, JavaFX, and Java Swing for CIS-232-75
+This project is a Pac-Man game coded with Java, JavaFX, and Java Swing for CIS-232-75
 
 In order to view the code, you will have to select the PakMan branch 
 
